@@ -1,0 +1,14 @@
+__pycache__/
+venv/
+.env
+.venv/
+src/
+pyproject.toml
+.python-version
+uv.lock
+.vscode/
+# LangGraph checkpoints & state
+.langgraph_api/
+*.pckl
+*.pkl
+*.db
