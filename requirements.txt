@@ -52,3 +52,7 @@ langgraph-checkpoint-sqlite
 
 
 deepagents
+
+redis
+openai
+numpy
